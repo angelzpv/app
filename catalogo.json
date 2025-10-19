@@ -1,0 +1,50 @@
+{
+  "Retro": {
+    "Ronaldo 2008 - Manchester United": {
+      "precio": 30,
+      "imagen": "https://i.imgur.com/ronaldo2008.jpg"
+    },
+    "Kaka 2007 - Milan": {
+      "precio": 35,
+      "imagen": "https://i.imgur.com/kaka2007.jpg"
+    }
+  },
+  "Nuevas": {
+    "Mbappe 2023 - PSG": {
+      "precio": 40,
+      "imagen": "https://i.imgur.com/mbappe2023.jpg"
+    },
+    "Haaland 2024 - Manchester City": {
+      "precio": 42,
+      "imagen": "https://i.imgur.com/haaland2024.jpg"
+    }
+  },
+  "Mundial": {
+    "Messi 2022 - Argentina": {
+      "precio": 45,
+      "imagen": "https://i.imgur.com/messi2022.jpg"
+    },
+    "Zidane 2006 - Francia": {
+      "precio": 38,
+      "imagen": "https://i.imgur.com/zidane2006.jpg"
+    }
+  },
+  "Infantiles": {
+    "Mini Messi - Argentina": {
+      "precio": 25,
+      "imagen": "https://i.imgur.com/minimessi.jpg"
+    }
+  },
+  "Accesorios": {
+    "Gorra Zona90": {
+      "precio": 15,
+      "imagen": "https://i.imgur.com/gorrazona90.jpg"
+    }
+  },
+  "Outlet": {
+    "Camiseta generica 2020": {
+      "precio": 20,
+      "imagen": "https://i.imgur.com/outlet2020.jpg"
+    }
+  }
+}
